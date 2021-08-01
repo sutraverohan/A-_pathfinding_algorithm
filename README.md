@@ -1,1 +1,1 @@
-# A-_pathfinding_algorithm
+# A*_pathfinding_algorithm
